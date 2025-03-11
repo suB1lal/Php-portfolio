@@ -2,5 +2,5 @@
  php ile yapmış olduğum potrfolio web sitesi projem
 
 
-![resim](image/anasayfa.png)
-![resim](image/iletisim.png)
+![resim](images/anasayfa.png)
+![resim](images/iletisim.png)
